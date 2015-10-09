@@ -1,0 +1,8 @@
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\bin\Debug\MyFileLoad.exe
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\bin\Debug\MyFileLoad.pdb
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.csprojResolveAssemblyReference.cache
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.Form1.resources
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.Properties.Resources.resources
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.csproj.GenerateResource.Cache
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.exe
+C:\Users\1323098\documents\visual studio 2010\Projects\MyFileLoad\obj\x86\Debug\MyFileLoad.pdb
